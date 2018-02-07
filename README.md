@@ -1,19 +1,24 @@
-## Welcome to GitHub Pages
+# TechStart EAST Portfolio - Venkata
 
-You can use the [editor on GitHub](https://github.com/vbpvms415/vbpvms415.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+##### This is my Github Portfolio
+I built this site using [GitHub Pages](https://pages.github.com/)
 
 ### Markdown
+**This site uses markdown.**
+Markdown is a lightweight and easy-to-use syntax for styling your writing.
+It is very easy and simple to use.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
+#### Headers
 
 # Header 1
 ## Header 2
 ### Header 3
+#### Header 4
+##### Header 5
+**The more number signs, the smaller the heading)**
+
+#### Lists
 
 - Bulleted
 - List
@@ -21,17 +26,20 @@ Syntax highlighted code block
 1. Numbered
 2. List
 
+#### Text Styling
+
 **Bold** and _Italic_ and `Code` text
 
+#### Links
+
 [Link](url) and ![Image](src)
-```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+Go to [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/) for more instructions.
 
-### Jekyll Themes
+#### Themes
 
 Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/vbpvms415/vbpvms415.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
-### Support or Contact
+## Support or Contact
 
 Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
