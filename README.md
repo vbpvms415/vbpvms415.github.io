@@ -9,7 +9,7 @@ I built this site using [GitHub Pages](https://pages.github.com/)
 Markdown is a lightweight and easy-to-use syntax for styling your writing.
 It is very easy and simple to use.
 
-#### Headers
+## Headers
 
 # Header 1
 ## Header 2
@@ -18,7 +18,7 @@ It is very easy and simple to use.
 ##### Header 5
 **The more number signs, the smaller the heading)**
 
-#### Lists
+## Lists
 
 - Bulleted
 - List
@@ -26,17 +26,17 @@ It is very easy and simple to use.
 1. Numbered
 2. List
 
-#### Text Styling
+## Text Styling
 
 **Bold** and _Italic_ and `Code` text
 
-#### Links
+## Links
 
 [Link](url) and ![Image](src)
 
 Go to [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/) for more instructions.
 
-#### Themes
+## Themes
 
 Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/vbpvms415/vbpvms415.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
