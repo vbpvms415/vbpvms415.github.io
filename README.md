@@ -1,10 +1,10 @@
 # TechStart EAST Portfolio - Venkata
 
 
-##### This is my Github Portfolio
+## This is my Github Portfolio
 I built this site using [GitHub Pages](https://pages.github.com/)
 
-### Markdown
+## Markdown
 **This site uses markdown.**
 Markdown is a lightweight and easy-to-use syntax for styling your writing.
 It is very easy and simple to use.
