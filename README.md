@@ -16,7 +16,7 @@ It is very easy and simple to use.
 ### Header 3
 #### Header 4
 ##### Header 5
-**The more number signs, the smaller the heading)**
+**(The more #, the smaller the heading)**
 
 ## Lists
 
