@@ -1,5 +1,5 @@
 
-# TechStart EAST Portfolio - Venkata
+# TechStart EAST Portfolio - Venkata Bhrugubanda
 
 
 ## This is my Github Portfolio
